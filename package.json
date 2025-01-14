@@ -2,7 +2,8 @@
   "name": "jade_website",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module"s
+  "homepage": "https://github.com/jlaz22/website/#",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
